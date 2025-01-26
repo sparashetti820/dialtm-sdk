@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.sagax.dialtm</groupId>
+  <artifactId>sdk</artifactId>
+  <versioning>
+    <latest>1.0.17-dtprod</latest>
+    <release>1.0.17-dtprod</release>
+    <versions>
+      <version>1.0.17-dtprod</version>
+    </versions>
+    <lastUpdated>20250126071010</lastUpdated>
+  </versioning>
+</metadata>
