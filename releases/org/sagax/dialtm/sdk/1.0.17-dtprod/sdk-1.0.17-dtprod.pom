@@ -11,7 +11,7 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-android</artifactId>
-      <version>0.73.8</version>
+      <version>0.75.4</version>
     </dependency>
     <dependency>
       <groupId>androidx.appcompat</groupId>
@@ -146,7 +146,7 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-pager-view</artifactId>
-      <version>6.2.0-dialtm-4876171</version>
+      <version>6.4.1-dialtm-4876171</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
@@ -156,12 +156,12 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-safe-area-context</artifactId>
-      <version>4.10.8-dialtm-4876171</version>
+      <version>4.12.0-dialtm-4876171</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-screens</artifactId>
-      <version>3.32.0-dialtm-4876171</version>
+      <version>3.35.0-dialtm-4876171</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
