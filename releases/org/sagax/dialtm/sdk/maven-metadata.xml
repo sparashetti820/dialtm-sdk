@@ -3,11 +3,11 @@
   <groupId>org.sagax.dialtm</groupId>
   <artifactId>sdk</artifactId>
   <versioning>
-    <latest>1.0.18-dtprod</latest>
-    <release>1.0.18-dtprod</release>
+    <latest>1.0.19-dtprod</latest>
+    <release>1.0.19-dtprod</release>
     <versions>
-      <version>1.0.18-dtprod</version>
+      <version>1.0.19-dtprod</version>
     </versions>
-    <lastUpdated>20250527055937</lastUpdated>
+    <lastUpdated>20250529123301</lastUpdated>
   </versioning>
 </metadata>

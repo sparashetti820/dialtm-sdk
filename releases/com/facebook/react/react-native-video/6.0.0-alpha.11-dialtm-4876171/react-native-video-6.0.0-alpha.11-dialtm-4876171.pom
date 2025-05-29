@@ -18,7 +18,7 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-android</artifactId>
-      <version>0.75.4</version>
+      <version>0.75.5</version>
     </dependency>
     <dependency>
       <groupId>com.google.android.exoplayer</groupId>
@@ -58,7 +58,7 @@
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib</artifactId>
-      <version>1.9.24</version>
+      <version>1.9.25</version>
     </dependency>
   </dependencies>
 </project>
